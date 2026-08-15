@@ -1,1 +1,1 @@
-# C e CC++
+# Linguagem C
